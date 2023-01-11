@@ -1,0 +1,15 @@
+html, body {
+    height: 100%;
+}
+
+.sect1 {
+    background-color: red;
+}
+
+.sect2 {
+    background-color: yellow;
+}
+
+.sect3 {
+    background-color: rgb(8, 246, 8);
+}
